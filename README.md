@@ -1,2 +1,2 @@
 # NerdFont
-# Forked from ryanoasis/nerd-fonts
+# fork of https://github.com/ryanoasis/nerd-fonts
